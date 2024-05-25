@@ -1,0 +1,64 @@
+D:\Testes\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Testes\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Testes\Temp\bin\Debug\2D Sky FREE.dll
+D:\Testes\Temp\bin\Debug\nunit.framework.dll
+D:\Testes\Temp\bin\Debug\UnityEditor.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Testes\Temp\bin\Debug\Mono.Cecil.dll
+D:\Testes\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Testes\Temp\bin\Debug\Unity.DataContract.dll
+D:\Testes\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Testes\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Testes\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Testes\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Testes\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Testes\Temp\bin\Debug\UnityEngine.xml
+D:\Testes\Temp\bin\Debug\UnityEditor.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Testes\Temp\bin\Debug\nunit.framework.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Testes\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Testes\obj\Debug\Assembly-CSharp.dll
+D:\Testes\obj\Debug\Assembly-CSharp.pdb
+D:\Testes\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Indisciplina 2D\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Indisciplina 2D\obj\Debug\Assembly-CSharp.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Indisciplina 2D\Temp\bin\Debug\2D Sky FREE.dll
+D:\Indisciplina 2D\Temp\bin\Debug\nunit.framework.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEditor.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Mono.Cecil.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Unity.DataContract.dll
+D:\Indisciplina 2D\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Indisciplina 2D\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEditor.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Indisciplina 2D\Temp\bin\Debug\nunit.framework.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Indisciplina 2D\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Indisciplina 2D\obj\Debug\Assembly-CSharp.pdb

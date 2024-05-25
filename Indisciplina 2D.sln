@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indisciplina 2D", "Assembly-CSharp.csproj", "{F69B57C6-E758-FBFE-4796-BEB79757BF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69B57C6-E758-FBFE-4796-BEB79757BF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69B57C6-E758-FBFE-4796-BEB79757BF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69B57C6-E758-FBFE-4796-BEB79757BF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69B57C6-E758-FBFE-4796-BEB79757BF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
